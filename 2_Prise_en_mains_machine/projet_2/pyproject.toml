@@ -1,16 +1,14 @@
 [project]
-name = "sqlite"
+name = "projet-2"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Wolf"}
+    {name = "WolfgangReip"}
 ]
 readme = "README.md"
 requires-python = "^3.11.1"
 dependencies = [
-    "pandas (>=2.2.3,<3.0.0)",
-    "numpy (>=2.2.2,<3.0.0)",
-    "ipykernel (>=6.29.5,<7.0.0)"
+    "streamlit (>=1.41.1,<2.0.0)"
 ]
 
 
